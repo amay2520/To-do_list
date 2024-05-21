@@ -50,7 +50,7 @@ Before running the application, ensure you have the following installed:
 
 4.**Running the app:**
 
-    npm start
+    npm run dev
 
 ### Usage 
 
